@@ -2,5 +2,5 @@
 
 ## Start
  * Mehdi: Liste classique
- * Damien: Tableau
- * Thomas: Liste numerote
+ * Damien: [Liste numerote](https://github.com/DamienL97r/dwwm-git-collab)
+ * Thomas: [Tableau](https://github.com/dvdevfr/dwwm-git-collab)
