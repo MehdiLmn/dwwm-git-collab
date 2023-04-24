@@ -1,6 +1,6 @@
 # dwwm-git-collab
 
 ## Start
- * Mehdi
- * Damien
- * Thomas
+ * Mehdi: Liste classique
+ * Damien: Tableau
+ * Thomas: Liste numerote
